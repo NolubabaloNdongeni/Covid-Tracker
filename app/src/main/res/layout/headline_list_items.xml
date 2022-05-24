@@ -36,16 +36,15 @@
 
     <TextView
         android:id="@+id/text_source"
-        android:textSize="18sp"
+        android:textSize="16dp"
         android:textStyle="bold"
         android:textColor="@color/purple_200"
         android:maxLines="1"
-        android:layout_marginTop="6dp"
+        android:layout_marginTop="6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
     </TextView>
-
 
 </LinearLayout>
 

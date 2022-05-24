@@ -12,6 +12,7 @@ package za.ac.cput.covidtracker.Models;
  */
 
 public class NewsHeadlines {
+    //Declaring all the objects for this class
     Source source = null;
     String author = "";
     String title = "";

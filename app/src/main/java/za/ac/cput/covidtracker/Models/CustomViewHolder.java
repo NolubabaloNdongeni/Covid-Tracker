@@ -21,6 +21,7 @@ import za.ac.cput.covidtracker.R;
 
 
 public class CustomViewHolder extends RecyclerView.ViewHolder {
+    //Declaring all the objects for the class
 TextView text_title, text_source;
 ImageView img_headline;
 CardView cardView;

@@ -13,7 +13,7 @@ import java.util.List;
  * Date: 23 May 2022
  */
 public class NewsApiResponse {
-
+//Declaring all the variables
     String status;
     int totalResults;
     List<NewsHeadlines> articles;

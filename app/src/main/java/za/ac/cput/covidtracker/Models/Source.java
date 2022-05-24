@@ -12,7 +12,7 @@ package za.ac.cput.covidtracker.Models;
  */
 
 public class Source {
-
+//Declaring the variables for this class
     String id = "";
     String name = "";
 

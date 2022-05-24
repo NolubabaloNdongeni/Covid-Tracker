@@ -1,5 +1,8 @@
 package za.ac.cput.covidtracker.Models;
-
+/**
+ * author: Chuma Nxazonke
+ * Student number: 219181187
+ */
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -43,7 +46,6 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomViewHolder> {
             Picasso.get().load(headlines.get(position).getUrlToImage()).into(holder.img_headline);
 
         }
-
 
     }
 
