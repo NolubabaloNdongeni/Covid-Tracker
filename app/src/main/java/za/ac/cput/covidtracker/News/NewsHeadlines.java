@@ -3,7 +3,7 @@
  *
  */
 
-package za.ac.cput.covidtracker.Models;
+package za.ac.cput.covidtracker.News;
 
 /**
  * @Uthor: Chuma Nxazonke
