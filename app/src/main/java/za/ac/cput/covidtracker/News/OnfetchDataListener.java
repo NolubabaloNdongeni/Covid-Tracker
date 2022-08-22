@@ -1,4 +1,4 @@
-package za.ac.cput.covidtracker.Models;
+package za.ac.cput.covidtracker.News;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package za.ac.cput.covidtracker.Models;
+package za.ac.cput.covidtracker.News;
 /**
  * author: Chuma Nxazonke
  * Student number: 219181187
@@ -10,7 +10,6 @@ import android.view.ViewGroup;
 
 
 import androidx.annotation.NonNull;
-import androidx.collection.CircularArray;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
