@@ -2,11 +2,11 @@ package za.ac.cput.covidtracker.News;
 
 import android.content.Context;
 import android.telecom.Call;
-
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
+
 
 public class RequestManager {
     //Declaring the context variable

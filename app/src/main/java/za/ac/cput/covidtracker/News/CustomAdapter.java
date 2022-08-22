@@ -7,8 +7,6 @@ package za.ac.cput.covidtracker.News;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
-
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
